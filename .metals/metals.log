@@ -1,0 +1,103 @@
+2022.10.10 14:42:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/thanakornariyagusolsuthi/Desktop/code/gatling/.metals/lsp.trace.json or /Users/thanakornariyagusolsuthi/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.10 14:42:39 INFO  logging to file /Users/thanakornariyagusolsuthi/Desktop/code/gatling/.metals/metals.log
+2022.10.10 14:42:39 INFO  Started: Metals version 0.11.9 in workspace '/Users/thanakornariyagusolsuthi/Desktop/code/gatling' for client Visual Studio Code 1.72.0.
+2022.10.10 14:42:43 INFO  time: initialize in 3.72s
+2022.10.10 14:42:44 WARN  Build server is not auto-connectable.
+2022.10.10 14:42:44 WARN  no build tool detected in workspace '/Users/thanakornariyagusolsuthi/Desktop/code/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.10 14:43:35 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.10 14:43:45 INFO  no build target found for /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala. Using presentation compiler with project's scala-library version: 3.2.0
+Oct 11, 2022 1:29:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.10.11 13:29:28 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+Oct 11, 2022 1:29:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2022.10.11 13:29:47 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+Oct 11, 2022 1:29:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2022.10.11 13:30:14 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.11 13:30:18 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.11 14:16:06 WARN  no build target for: /Users/thanakornariyagusolsuthi/Downloads/user-files_simulations_kvservice_get.scala
+Oct 11, 2022 2:16:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.10.11 14:16:52 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.11 14:16:59 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.11 14:17:04 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.11 14:17:04 WARN  no build target for: /Users/thanakornariyagusolsuthi/Downloads/user-files_simulations_kvservice_get.scala
+2022.10.11 14:17:07 INFO  shutting down Metals
+2022.10.18 16:42:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/thanakornariyagusolsuthi/Desktop/code/gatling/.metals/lsp.trace.json or /Users/thanakornariyagusolsuthi/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.18 16:42:45 INFO  logging to file /Users/thanakornariyagusolsuthi/Desktop/code/gatling/.metals/metals.log
+2022.10.18 16:42:45 INFO  Started: Metals version 0.11.9 in workspace '/Users/thanakornariyagusolsuthi/Desktop/code/gatling' for client Visual Studio Code 1.72.2.
+2022.10.18 16:42:46 INFO  time: initialize in 0.85s
+2022.10.18 16:42:47 WARN  Build server is not auto-connectable.
+2022.10.18 16:42:47 WARN  no build tool detected in workspace '/Users/thanakornariyagusolsuthi/Desktop/code/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.18 16:42:47 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+Oct 18, 2022 4:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.10.18 16:42:50 INFO  no build target found for /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.18 16:42:50 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.18 16:42:50 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.18 16:42:50 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.18 16:42:51 INFO  time: code lens generation in 3.48s
+2022.10.18 17:03:56 INFO  shutting down Metals
+2022.10.18 17:04:56 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/thanakornariyagusolsuthi/Desktop/code/gatling/.metals/lsp.trace.json or /Users/thanakornariyagusolsuthi/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.18 17:04:56 INFO  logging to file /Users/thanakornariyagusolsuthi/Desktop/code/gatling/.metals/metals.log
+2022.10.18 17:04:56 INFO  Started: Metals version 0.11.9 in workspace '/Users/thanakornariyagusolsuthi/Desktop/code/gatling' for client Visual Studio Code 1.72.2.
+2022.10.18 17:04:58 INFO  time: initialize in 1.25s
+2022.10.18 17:04:59 WARN  Build server is not auto-connectable.
+2022.10.18 17:04:59 WARN  no build tool detected in workspace '/Users/thanakornariyagusolsuthi/Desktop/code/gatling'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.18 17:04:59 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.18 17:05:02 INFO  no build target found for /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.18 17:05:03 INFO  time: code lens generation in 3.8s
+Oct 19, 2022 11:13:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 19, 2022 3:59:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+2022.10.19 16:02:17 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.19 16:02:20 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:33 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:33 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:33 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:33 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:33 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:33 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:02:40 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.19 16:02:40 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.19 16:02:40 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-primary-public.scala
+2022.10.19 16:02:44 WARN  no build target for: /Users/thanakornariyagusolsuthi/Desktop/code/gatling/user-files/simulations/kvservices/get-secondary-public.scala
+2022.10.19 16:03:49 INFO  shutting down Metals
